@@ -1,5 +1,4 @@
 # main-page
 My public website
 
-
-Ahoj, jak je?
+Hi. This is the code to my public page www.davking.eu 🤗
